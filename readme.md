@@ -15,8 +15,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (20pts) Improved the user interface by experimenting with styling and coloring.
 
 ### App Walkthough GIF
-<img src="https://i.imgur.com/mj8naSj.gif" width=250><br>
-<img src="https://i.imgur.com/IpXeJR5.gif" width=750><br>
+<img src="https://i.imgur.com/qwD7329.gif" width=250><br>
+<img src="https://i.imgur.com/cXUl1vE.gif" width=750><br>
+
 
 ### Notes
 The only challenge is there are some name changes over the JSON file that I have to find and corrected.
